@@ -26,7 +26,7 @@
 > $ git clone https://github.com/billmike/yelp-clone.git
 ```
 
-* Change directory into the more-recipes directory
+* Change directory into the yelp-clone directory
 
 ```sh
 > $ cd yelp-clone
